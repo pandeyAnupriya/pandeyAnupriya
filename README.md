@@ -1,4 +1,4 @@
-Hi 👋 My name is Anupriya pandey
+Hi  My name is Anupriya pandey
 ================================
 
 Data Scientist and front end developer
